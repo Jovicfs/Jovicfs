@@ -6,7 +6,9 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-silva-b77516231/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jovicfs&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jovicfs&layout=pie&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jovicfs&layout=compact&theme=transparent)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jovicfs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
