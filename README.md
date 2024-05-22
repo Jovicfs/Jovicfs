@@ -6,6 +6,7 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-silva-b77516231/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jovicfs&show_icons=true&theme=transparent)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jovicfs&layout=compact&theme=transparent)
 
 
