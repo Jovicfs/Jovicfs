@@ -27,4 +27,5 @@
      
 </div>
 
-![snake animation](https://github.com/Jovicfs/Jovicfs/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Jovicfs/Jovicfs/blob/main/github-contribution-grid-snake2.svg)
+https://github.com/Jovicfs/Jovicfs/blob/main/snake.yml
