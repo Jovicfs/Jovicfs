@@ -25,8 +25,6 @@
      <img align= "center" alt="html5" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
      <img align= "center" alt="html5" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
      <br/>
-#Sobre Mim
-Desenvolvedor FullStack com experiência em criação de aplicações web usando JavaScript, Node.js, React e outras tecnologias. Apaixonado por aprender novas habilidades e resolver problemas complexos. Vamos nos conectar e colaborar!
 </div>
 
 
