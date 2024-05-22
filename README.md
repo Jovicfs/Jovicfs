@@ -29,9 +29,4 @@
 ### Sobre Mim
 Desenvolvedor FullStack com experiência em criação de aplicações web usando JavaScript, Node.js, React e outras tecnologias. Apaixonado por aprender novas habilidades e resolver problemas complexos. Vamos nos conectar e colaborar!
 
----
 
-### Projetos em Destaque
-- **Projeto 1**: Descrição breve do projeto.
-- **Projeto 2**: Descrição breve do projeto.
-- **Projeto 3**: Descrição breve do projeto.
