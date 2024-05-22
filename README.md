@@ -8,8 +8,8 @@
 
 ### GitHub Stats
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jovicfs&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovicfs&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jovicfs&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 25%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovicfs&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 25%;" />
 </div>
 
 ## Tecnologias que eu utilizo 👩🏻‍💻
