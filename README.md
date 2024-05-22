@@ -1,13 +1,13 @@
-### Olá eu Sou o João Victor 🤟
+### Prazer, meu nome é João Victor 👽
 
-### Desenvolvedor em constante evolução 🔥
+### Desenvolvedor FullStack Javascript 🔥
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_vikctor/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-silva-b77516231/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jovicfs&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso 🧑‍💻
+## Tecnologias que eu utilizo 🧑‍💻
 
 <div style = "display:inline_block"></br>
     <img align= "center" alt="html5" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
