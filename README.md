@@ -1,4 +1,4 @@
-### Prazer, meu nome é João Victor 👽
+### Prazer, meu nome é João Victor 🧐
 
 ### Desenvolvedor FullStack Javascript 🔥
 
