@@ -1,6 +1,6 @@
-# Prazer, meu nome é João Victor 🧐
+#  Hello everyone, my name is Victor 🧐
 
-## Desenvolvedor FullStack Javascript 🔥
+## FullStack Javascript Developer 🔥
 
 ### Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_vikctor/)
@@ -26,7 +26,6 @@
 
 ---
 
-### Sobre Mim
-Desenvolvedor FullStack com experiência em criação de aplicações web usando JavaScript, Node.js, React e outras tecnologias. Apaixonado por aprender novas habilidades e resolver problemas complexos. Vamos nos conectar e colaborar!
-
+### About Me
+FullStack developer with experience in creating web applications using JavaScript, Node.js, React, and other technologies. Passionate about learning new skills and solving complex problems. Let's connect and collaborate!
 
